@@ -88,13 +88,3 @@ webbench -c 1000 -t 30 http://ip:port/
 	-c 表示客户端数
 	-t 表示时间
 ```
-
-![](./imgs/pressure.png)
-
-
-## Thanks
-Linux高性能服务器编程，游双著. 
-
-[@qinguoyi](https://github.com/qinguoyi/TinyWebServer)
-
-[@markparticle](https://github.com/markparticle/WebServer)
